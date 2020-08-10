@@ -1289,3 +1289,9 @@ i.fas.fa-arrow-up {
   background-size: 400px 100%;
   opacity: 2;
 }
+
+/* Adding Margin between projects */
+div.work2:nth-child(4) > div:nth-child(1) {
+margin-bottom: 5px;
+margin-bottom: 15px;
+}
