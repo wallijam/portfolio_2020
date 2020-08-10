@@ -79,7 +79,7 @@ ul li:hover {
 #home-section {
   display: flex;
   min-height: 92vh;
-  background-image: url(/images/Speedline-20s-1680px.svg);
+  background-image: url(/images/spin-dark.svg);
   align-items: center;
   justify-content: space-around;
 }
