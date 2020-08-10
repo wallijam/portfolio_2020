@@ -286,6 +286,11 @@ ul li:hover {
   color: #be1e2d;
   font-family: Raleway;
 }
+
+.first-para {
+padding-bottom: 20px;
+}
+
 #about-me .right .first-para {
   font-size: 15px;
   font-weight: 550;
