@@ -332,6 +332,20 @@ padding-bottom: 20px;
   font-family: "Raleway";
   cursor: pointer;
 }
+/* View Work Button addition  */
+.view-work {
+    color: #be1e2d;
+    font-size: 17px;
+    margin: 0px auto;
+    border: 3px solid #be1e2d;
+    background: #141414;
+    padding: 10px 10px;
+    font-family: "Raleway", sans-serif;
+    margin: 20px auto;
+    outline: none;
+    cursor: pointer;
+    margin-left: 20px;
+}
 
 #about-me .right .hire-button:hover {
   background: #be1e2d;
