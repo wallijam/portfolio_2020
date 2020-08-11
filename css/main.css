@@ -347,6 +347,10 @@ padding-bottom: 20px;
     margin-left: 20px;
 }
 
+.home-content > a:nth-child(6) > button:nth-child(1) {
+margin-left: 20px;
+}
+
 #about-me .right .hire-button:hover {
   background: #be1e2d;
   color: #161616;
