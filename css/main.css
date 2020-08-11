@@ -245,7 +245,7 @@ ul li:hover {
   }
 }
 
-#home-section .view-work {
+ .view-work {
   color: #be1e2d;
   font-size: 17px;
   margin: 0px auto;
@@ -256,6 +256,7 @@ ul li:hover {
   margin: 20px auto;
   outline: none;
   cursor: pointer;
+  margin-left: 25px !important;
 }
 
 #home-section .view-work:hover {
