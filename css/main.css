@@ -277,6 +277,10 @@ ul li:hover {
   color: #161616;
   background: #be1e2d;
 }
+#home-section .email-me:hover {
+  color: #161616;
+  background: #be1e2d;
+}
 /*About-me*/
 
 #about-me {
@@ -348,20 +352,6 @@ padding-bottom: 20px;
   cursor: pointer;
 }
 /* View Work Button addition  */
-.view-work {
-    color: #be1e2d;
-    font-size: 17px;
-    margin: 0px auto;
-    border: 3px solid #be1e2d;
-    background: #141414;
-    padding: 10px 10px;
-    font-family: "Raleway", sans-serif;
-    margin: 20px auto;
-    outline: none;
-    cursor: pointer;
-    margin-left: 20px;
-}
-
 .home-content > a:nth-child(6) > button:nth-child(1) {
 margin-left: 20px;
 }
