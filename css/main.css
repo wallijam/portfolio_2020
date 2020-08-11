@@ -244,8 +244,22 @@ ul li:hover {
     color: #be1e2d;
   }
 }
-
+/* Header Buttons */
  .view-work {
+  color: #be1e2d;
+  font-size: 17px;
+  margin: 0px auto;
+  border: 3px solid #be1e2d;
+  background: #141414;
+  padding: 10px 10px;
+  font-family: "Raleway", sans-serif;
+  margin: 20px auto;
+  outline: none;
+  cursor: pointer;
+
+}
+
+.email-me{
   color: #be1e2d;
   font-size: 17px;
   margin: 0px auto;
